@@ -61,7 +61,7 @@ Smart sensor-based monitoring system with cloud integration.
 
 ## 📫 Connect With Me  
 - **GitHub:** https://github.com/Veerabhadraraoeepu  
-- **LinkedIn:** *(Add your link here)*  
+- **LinkedIn:** *(https://www.Linkedin.com/in/eepu-veera-bhadrarao-334383253)*  
 
 ---
 
